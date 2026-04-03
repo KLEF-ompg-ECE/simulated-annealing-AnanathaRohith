@@ -1,9 +1,9 @@
 # Assignment 1 — Simulated Annealing: Exam Timetable Scheduling
 ## Observation Report
 
-**Student Name  :** G.Sathwik Reddy
-**Student ID    :** 2310040020  
-**Date Submitted:** 20-03-2026 
+**Student Name  :** A.Rohith
+**Student ID    :** 2310040026
+**Date Submitted:** 03-04-2026 
 
 ---
 
